@@ -1,5 +1,5 @@
 from src.problem import *
-from src.genetic_algorithm_improved import *
+from src.genetic_algorithm_EDIT import *
 import pytest
 
 

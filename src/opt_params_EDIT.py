@@ -2,8 +2,8 @@ from problem import *
 
 # EDIT TO YOUR HEART'S CONTENT vvv ############################################
 
-pop_size = 10
-elitism_size = 10
+pop_size = 30
+elitism_size = 30
 mutation_rate = 0.0025
 
 # EDIT TO YOUR HEART'S CONTENT ABOVE ^^^ ######################################

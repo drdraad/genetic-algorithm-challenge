@@ -1,8 +1,8 @@
 # optimisation experiment code
 import random
 import time
-from opt_params_base import *
-from genetic_algorithm_base import GA
+from opt_params_EDIT import *
+from genetic_algorithm_EDIT import GA
 
 
 def run_experiment(experiment_name: str,
