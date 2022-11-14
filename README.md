@@ -6,14 +6,14 @@ Genetic algorithm tutorial and challenge details appear in `genetic_algorithm_ch
 
 ### Getting Started
 
-Run `pip install -r requirements.txt` to install required packages.
+1. Run `pip install -r requirements.txt` to install required packages.
 
-The code defining the problem to solve is in `src/problem.py` and the algorithm testing code is in `opt_experiment.py`
+2. The code defining the problem is in `src/problem.py` and the algorithm testing code is in `opt_experiment.py`
 
-You are only required to edit the files `src/genetic_algorithm_EDIT.py` and `src/opt_params_EDIT.py` for this challenge in the sections marked _# TODO: ADD CODE HERE_.
+3. You are only required to edit the files `src/genetic_algorithm_EDIT.py` and `src/opt_params_EDIT.py` for this challenge in the sections marked _# TODO: ADD CODE HERE_. You can optionally also overwrite the `generate_children()` function from `src.base.BaseGA`. 
 
 ### Solution
-Solution on `solution` branch (don't peek!), including `ga-challenge-2022-debrief.pdf` analysing the performance of the algorithms over time.
+Solution on `solution` branch (don't peek!), including `ga-challenge-2022-debrief.pdf` showing the performance of different GA variants over time.
  
 The following files should be run when testing:
 
@@ -22,4 +22,4 @@ The following files should be run when testing:
 - `optuna_experiment.py` - Conduct HPO on the parameters of the improved GA
 - `utils.py` - Generate a graph comparing the average performance of the different algorithms over time
 
-Note: Benchmarking was conducted on a MacBook Pro, macOS Monterey 12.5.1 | 2 GHz Quad-Core Intel Core i5 | 16 GB 3733 MHz LPDDR4X
+Note: _Benchmarking was conducted on a MacBook Pro, macOS Monterey 12.5.1 | 2 GHz Quad-Core Intel Core i5 | 16 GB 3733 MHz LPDDR4X_
