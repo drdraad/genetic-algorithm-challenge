@@ -10,9 +10,11 @@ Welcome to the GA Challenge 2022! The genetic algorithm tutorial and challenge d
 
 2. The code defining the problem is in `src/problem.py` and the algorithm testing code is in `opt_experiment.py`
 
-3. You are only required to edit the files `src/genetic_algorithm_EDIT.py` and `src/opt_params_EDIT.py` for this challenge in the sections marked _# TODO: ADD CODE HERE_. You may optionally also overwrite the `generate_children()` function inherited from `src.base.BaseGA`. 
+3. You are only required to edit the files `src/genetic_algorithm_EDIT.py` and `src/opt_params_EDIT.py` for this challenge in the sections marked _# TODO: ADD CODE HERE_. 
 
-4. You may also write your own script to conduct hyperparameter optimisation on the GA's parameters.
+4. You may optionally also overwrite the `generate_children()` function inherited from `src.base.BaseGA`. 
+
+5. You may also write your own script to conduct hyperparameter optimisation on the GA's parameters.
 
 ### Solution
 Solution on `solution` branch (don't peek!), including `ga-challenge-2022-debrief.pdf` showing the performance of different GA variants over time.
