@@ -12,6 +12,8 @@ Genetic algorithm tutorial and challenge details appear in `genetic_algorithm_ch
 
 3. You are only required to edit the files `src/genetic_algorithm_EDIT.py` and `src/opt_params_EDIT.py` for this challenge in the sections marked _# TODO: ADD CODE HERE_. You can optionally also overwrite the `generate_children()` function inherited from `src.base.BaseGA`. 
 
+4. You may also write your own script to conduct HPO on the GA's parameters.
+
 ### Solution
 Solution on `solution` branch (don't peek!), including `ga-challenge-2022-debrief.pdf` showing the performance of different GA variants over time.
  
