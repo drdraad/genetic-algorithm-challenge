@@ -1,4 +1,4 @@
-## Genetic Algorithm Challenge 2022
+## Genetic Algorithm Santa's Elf Scheduling Challenge
 
 ### Overview
 
