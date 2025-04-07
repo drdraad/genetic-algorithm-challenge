@@ -2,7 +2,7 @@
 
 ### Overview
 
-Welcome to the GA Challenge 2022! The genetic algorithm tutorial and challenge details appear in [genetic_algorithm_challenge.ipynb](https://github.com/drdraad/ga-challenge-2022/blob/solution/genetic_algorithm_challenge.ipynb)
+Welcome to the GA Elf Scheduling Challenge! The genetic algorithm tutorial and challenge details appear in [genetic_algorithm_challenge.ipynb](https://github.com/drdraad/genetic-algorithm-challenge/blob/solution/genetic_algorithm_challenge.ipynb)
 
 ### Getting Started
 
