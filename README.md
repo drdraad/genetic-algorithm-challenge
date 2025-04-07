@@ -1,4 +1,4 @@
-## Genetic Algorithm Santa's Elf Scheduling Challenge
+## Santa's Elf Scheduling Genetic Algorithm Challenge
 
 ### Overview
 
